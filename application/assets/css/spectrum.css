@@ -2832,3 +2832,32 @@ p.demo-text {
   margin-top: 20px;
   font-size: 25px;
 }
+.dots
+{
+	font-size:20px;
+	font-weight:700;
+	padding-left:20px;
+}
+
+.dots li 
+{
+	list-style-type:disc;
+	padding-left:8px;
+	margin-left:0px;
+	margin-bottom:10px
+}
+
+ul.arrows
+{
+	font-size:16px;
+	padding-left:20px;
+	line-height:1.4em;
+}
+
+ul.arrows li
+{
+	list-style:disc outside url("arrow.png");
+	padding-left:5px;
+	margin-left:0px;
+	margin-bottom:10px;
+}
